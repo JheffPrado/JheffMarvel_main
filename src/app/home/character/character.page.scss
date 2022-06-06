@@ -9,18 +9,18 @@
 
 .page-title {
   text-align: center;
-  color: var(--white);
+  color: var(--dark);
   font-size: 1.9rem;
 }
 
 .character-info{
-  color: var(--white);
+  color: var(--dark);
   font-size: 1rem;
   text-align: center;
 }
 
 .page-subtitle{
-  color: var(--white);
+  color: var(--dark);
   font-size: 1.3rem;
   text-align: center;
   margin-top: 20px;
@@ -36,20 +36,20 @@
 }
 
 .comic-name{
-    color: var(--white);
+    color: var(--dark);
     font-size: 1.5rem;
     font-weight: bold;
 }
 
 .comic-description{
-  color: var(--white);
+  color: var(--dark);
   font-size: 1.1rem;
 }
 
 @media(min-width: 768px){
   .page-title {
     text-align: left;
-    color: var(--white);
+    color: var(--dark);
     font-size: 1.6rem;
   }
   
